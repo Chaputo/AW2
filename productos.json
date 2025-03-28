@@ -1,0 +1,73 @@
+[
+    {
+      "id": 101,
+      "nombre": "Arroz Blanco 1kg",
+      "desc": "Arroz de grano largo, ideal para acompañar cualquier comida.",
+      "precio": 2.50,
+      "imagen": "arroz_blanco.jpg"
+    },
+    {
+      "id": 102,
+      "nombre": "Harina de Trigo 1kg",
+      "desc": "Harina refinada para panadería y repostería.",
+      "precio": 1.80,
+      "imagen": "harina_trigo.jpg"
+    },
+    {
+      "id": 103,
+      "nombre": "Aceite de Girasol 1L",
+      "desc": "Aceite vegetal para cocinar, freír y aderezar ensaladas.",
+      "precio": 4.20,
+      "imagen": "aceite_girasol.jpg"
+    },
+    {
+      "id": 104,
+      "nombre": "Lentejas 500g",
+      "desc": "Lentejas secas ricas en proteínas y fibra.",
+      "precio": 2.00,
+      "imagen": "lentejas.jpg"
+    },
+    {
+      "id": 105,
+      "nombre": "Sal Fina 500g",
+      "desc": "Sal refinada de alta pureza para cocinar.",
+      "precio": 0.80,
+      "imagen": "sal_fina.jpg"
+    },
+    {
+      "id": 106,
+      "nombre": "Azúcar Blanca 1kg",
+      "desc": "Azúcar refinada para endulzar bebidas y postres.",
+      "precio": 2.30,
+      "imagen": "azucar_blanca.jpg"
+    },
+    {
+      "id": 107,
+      "nombre": "Fideos Spaghetti 500g",
+      "desc": "Pasta de trigo duro ideal para salsas y guisos.",
+      "precio": 1.90,
+      "imagen": "fideos_spaghetti.jpg"
+    },
+    {
+      "id": 108,
+      "nombre": "Café Molido 250g",
+      "desc": "Café tostado y molido con aroma intenso.",
+      "precio": 5.50,
+      "imagen": "cafe_molido.jpg"
+    },
+    {
+      "id": 109,
+      "nombre": "Leche en Polvo 800g",
+      "desc": "Leche entera en polvo, ideal para consumo diario.",
+      "precio": 6.80,
+      "imagen": "leche_polvo.jpg"
+    },
+    {
+      "id": 110,
+      "nombre": "Atún en Lata 170g",
+      "desc": "Atún en conserva en aceite vegetal.",
+      "precio": 3.20,
+      "imagen": "atun_lata.jpg"
+    }
+  ]
+  

@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1001,
+      "id_usuario": 1,
+      "fecha": "2024-03-15",
+      "total": 8.50,
+      "direccion": "Calle Falsa 123, Ciudad",
+      "productos": [
+        { "id": 101, "cantidad": 2 },
+        { "id": 105, "cantidad": 1 }
+      ]
+    },
+    {
+      "id": 1002,
+      "id_usuario": 2,
+      "fecha": "2024-03-16",
+      "total": 13.70,
+      "direccion": "Av. Siempreviva 742, Ciudad",
+      "productos": [
+        { "id": 102, "cantidad": 1 },
+        { "id": 107, "cantidad": 2 },
+        { "id": 105, "cantidad": 1 }
+      ]
+    },
+    {
+      "id": 1003,
+      "id_usuario": 3,
+      "fecha": "2024-03-17",
+      "total": 4.20,
+      "direccion": "Calle Principal 456, Ciudad",
+      "productos": [
+        { "id": 103, "cantidad": 1 }
+      ]
+    },
+    {
+      "id": 1004,
+      "id_usuario": 4,
+      "fecha": "2024-03-18",
+      "total": 10.30,
+      "direccion": "Barrio Norte 789, Ciudad",
+      "productos": [
+        { "id": 106, "cantidad": 2 },
+        { "id": 104, "cantidad": 1 }
+      ]
+    },
+    {
+      "id": 1005,
+      "id_usuario": 5,
+      "fecha": "2024-03-19",
+      "total": 6.80,
+      "direccion": "Av. Central 321, Ciudad",
+      "productos": [
+        { "id": 109, "cantidad": 1 }
+      ]
+    },
+    {
+      "id": 1006,
+      "id_usuario": 6,
+      "fecha": "2024-03-20",
+      "total": 9.70,
+      "direccion": "Calle Sur 654, Ciudad",
+      "productos": [
+        { "id": 110, "cantidad": 2 },
+        { "id": 105, "cantidad": 1 }
+      ]
+    },
+    {
+      "id": 1007,
+      "id_usuario": 7,
+      "fecha": "2024-03-21",
+      "total": 15.50,
+      "direccion": "Residencial Oeste 852, Ciudad",
+      "productos": [
+        { "id": 108, "cantidad": 2 },
+        { "id": 103, "cantidad": 1 }
+      ]
+    },
+    {
+      "id": 1008,
+      "id_usuario": 8,
+      "fecha": "2024-03-22",
+      "total": 12.60,
+      "direccion": "Pasaje Este 741, Ciudad",
+      "productos": [
+        { "id": 104, "cantidad": 3 },
+        { "id": 106, "cantidad": 1 }
+      ]
+    },
+    {
+      "id": 1009,
+      "id_usuario": 9,
+      "fecha": "2024-03-23",
+      "total": 18.70,
+      "direccion": "Urbanización Nueva 963, Ciudad",
+      "productos": [
+        { "id": 107, "cantidad": 3 },
+        { "id": 102, "cantidad": 2 }
+      ]
+    },
+    {
+      "id": 1010,
+      "id_usuario": 10,
+      "fecha": "2024-03-24",
+      "total": 5.50,
+      "direccion": "Callejón Pequeño 258, Ciudad",
+      "productos": [
+        { "id": 108, "cantidad": 1 }
+      ]
+    }
+  ]
+  
