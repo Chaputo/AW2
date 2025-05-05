@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "userId": 5,
+        "producto": "Mouse Gamer"
+    },
+    {
+        "id": 2,
+        "userId": 13,
+        "producto": "Teclado Mecánico"
+    },
+    {
+        "id": 3,
+        "userId": 8,
+        "producto": "Monitor 27\" 4K"
+    },
+    {
+        "id": 4,
+        "userId": 3,
+        "producto": "Auriculares Inalámbricos"
+    },
+    {
+        "id": 5,
+        "userId": 12,
+        "producto": "Silla Ergonómica"
+    },
+    {
+        "id": 6,
+        "userId": 7,
+        "producto": "Alfombrilla RGB"
+    },
+    {
+        "id": 7,
+        "userId": 1,
+        "producto": "Microphone Condenser"
+    },
+    {
+        "id": 8,
+        "userId": 9,
+        "producto": "Laptop Gaming"
+    },
+    {
+        "id": 9,
+        "userId": 14,
+        "producto": "Tablet 10\" Android"
+    },
+    {
+        "id": 10,
+        "userId": 6,
+        "producto": "Soporte de Monitor Ajustable"
+    },
+    {
+        "id": 11,
+        "userId": 2,
+        "producto": "Teclado Inalámbrico"
+    },
+    {
+        "id": 12,
+        "userId": 11,
+        "producto": "Cámara Web 1080p"
+    },
+    {
+        "id": 13,
+        "userId": 4,
+        "producto": "Disco Duro Externo 1TB"
+    },
+    {
+        "id": 14,
+        "userId": 10,
+        "producto": "Estación de Acoplamiento USB-C"
+    },
+    {
+        "id": 15,
+        "userId": 15,
+        "producto": "Ratón Inalámbrico"
+    }
+]
