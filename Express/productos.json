@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "nombre": "Teclado",
+        "precio": 3000
+    },
+    {
+        "id": 2,
+        "nombre": "Mouse",
+        "precio": 1500
+    },
+    {
+        "id": 3,
+        "nombre": "Monitor",
+        "precio": 25000
+    },
+    {
+        "id": 4,
+        "nombre": "Notebook",
+        "precio": 120000
+    },
+    {
+        "id": 5,
+        "nombre": "Auriculares",
+        "precio": 4000
+    },
+    {
+        "id": 6,
+        "nombre": "Webcam",
+        "precio": 6500
+    },
+    {
+        "id": 7,
+        "nombre": "Impresora",
+        "precio": 28000
+    },
+    {
+        "id": 8,
+        "nombre": "Disco Duro Externo",
+        "precio": 15000
+    },
+    {
+        "id": 9,
+        "nombre": "Pendrive",
+        "precio": 2000
+    },
+    {
+        "id": 10,
+        "nombre": "Parlantes",
+        "precio": 5000
+    },
+    {
+        "id": 11,
+        "nombre": "Router WiFi",
+        "precio": 8000
+    },
+    {
+        "id": 12,
+        "nombre": "Tablet",
+        "precio": 45000
+    },
+    {
+        "id": 13,
+        "nombre": "Joystick",
+        "precio": 7000
+    },
+    {
+        "id": 14,
+        "nombre": "Silla Gamer",
+        "precio": 55000
+    },
+    {
+        "id": 15,
+        "nombre": "Microfono",
+        "precio": 6000
+    }
+]

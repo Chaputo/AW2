@@ -1,2 +1,21 @@
 node_modules/
 package-lock.json
+
+/.gitconfig
+/.vscode/
+/AppData/
+/Desktop/
+/Documents/
+/Downloads/
+/Favorites/
+/IntelGraphicsProfiles/
+/Links/
+/Music/
+/OneDrive/
+/Pictures/
+/Saved Games/
+/Searches/
+/Videos/
+
+*.log
+*.tmp
